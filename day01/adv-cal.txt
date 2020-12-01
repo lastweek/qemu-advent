@@ -1,0 +1,9 @@
+QEMU Advent Calendar 2020:
+
+Tweetable Bootsector game
+------
+
+This is a great little game by Alok Menghrajani, which fits into a tweet! 
+
+Please have a look at https://www.quaxio.com/bootable_cd_retro_game_tweet/
+for more info.
