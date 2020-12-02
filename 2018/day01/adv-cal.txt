@@ -1,0 +1,11 @@
+QEMU Advent Calendar 2018:
+
+F-Bird
+------
+
+This is a great little game by Óscar Toledo G., which fits into a 512-bytes
+boot sector! Press a key to start the game. Gravity makes you to fall, press
+any key to fly.
+
+Please have a look at the readme.txt or https://github.com/nanochess/fbird
+for some more information.
