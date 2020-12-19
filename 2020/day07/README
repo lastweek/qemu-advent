@@ -1,0 +1,17 @@
+Visopsys (VISual OPerating SYStem) 
+------------------------------------------
+
+
+Visopsys[1] is an alternative operating system for PC-compatible computers,
+written “from scratch”, and developed primarily by a single hobbyist programmer
+since 1997.
+
+The recent release adds support for various networking components, including a
+telnet implementation. First, run ifconfig to enable the network. If you are
+interested in connecting to something via telnet, you might try
+towel.blinkenlights.nl
+
+They goal of Visopsys is to be small, fast, and capable of handling various partition
+tables and types.
+
+[1] https://visopsys.org/

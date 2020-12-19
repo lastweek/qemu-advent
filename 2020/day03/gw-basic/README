@@ -1,0 +1,31 @@
+ ██████╗ ██╗    ██╗    ██████╗  █████╗ ███████╗██╗ ██████╗
+██╔════╝ ██║    ██║    ██╔══██╗██╔══██╗██╔════╝██║██╔════╝
+██║  ███╗██║ █╗ ██║    ██████╔╝███████║███████╗██║██║
+██║   ██║██║███╗██║    ██╔══██╗██╔══██║╚════██║██║██║
+╚██████╔╝╚███╔███╔╝    ██████╔╝██║  ██║███████║██║╚██████╗
+ ╚═════╝  ╚══╝╚══╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝
+
+GW-BASIC is a dialect of the BASIC programming language and it came with
+MS-DOS. It was open-sourced on May 21st 2020 under the MIT License. Although it
+was only released by Microsoft for reference and study, others have
+collaborated to get the code to assemble and run again.
+
+This disk image boots into GW-BASIC. The original GW-BASIC user manual can be
+found online with a list of available statements. The most essential are:
+ * PRINT "HELLO WORLD" - display text
+ * 10 ...
+   GOTO 10 - loop
+ * SYSTEM - exit to DOS
+
+The famous BASIC game DONKEY.BAS is included as a demo that you can run by
+entering F3 DONKEY.BAS" <Enter> F2. This file comes from the MS-DOS 1.25 open
+source release:
+https://en.wikipedia.org/wiki/DONKEY.BAS
+https://github.com/microsoft/MS-DOS/blob/master/v1.25/bin/DONKEY.BAS
+
+For GW-BASIC resources, see Cory Smith's website: http://gw-basic.com/
+
+The GW-BASIC.EXE binary is from
+https://github.com/tkchia/GW-BASIC/releases/tag/20201025. It runs on a FreeDOS
+1.2 disk image with GPL sources included inside the disk image. This image was
+packaged by Stefan Hajnoczi <stefanha@gmail.com>.

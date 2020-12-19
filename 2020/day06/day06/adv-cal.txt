@@ -1,0 +1,20 @@
+QEMU Advent Calendar 2020:
+
+BootMine
+------
+
+Bootable minesweeper game in a 512-byte boot sector
+
+Controls:
+
+| Key        | Action                                                      |
+|------------|-------------------------------------------------------------|
+| Space      | Clear cell                                                  |
+| Arrow keys | Move cursor                                                 |
+| Enter      | Place flag                                                  |
+| R          | Restart game (only works on GAME WIN and GAME OVER screens) |
+
+
+Code:
+
+https://github.com/io12/BootMine
